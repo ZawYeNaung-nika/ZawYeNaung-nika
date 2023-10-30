@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZawYeNaung-nika
+- 👋 Hi, I’m Zaw Ye Naung
 - 👀 I’m interested in ...Machine Learning
 - 🌱 I’m currently learning ...Python, Data Science, Machine learning, NLP, Computer Vision
 - 💞️ I’m looking to collaborate on ... new opportunities
